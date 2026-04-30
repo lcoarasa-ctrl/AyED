@@ -1,5 +1,4 @@
 # AyED
-- **Nombre:** Lucio
-- **Apellido:** Coarasa
-- **Comisión:** K1041
-- **Institución:** UTN
+**Nombre y Apellido:** Lucio Coarasa
+**Comisión:** K1041
+
